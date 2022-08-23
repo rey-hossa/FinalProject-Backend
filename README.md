@@ -7,6 +7,14 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+
+## For development
+
+To Starting using this Application locally download the project and rename the ".env.sample" file in ".env" in the "laravel_api" file and edit this with your database name. Then you can open the "laravel_api" file in your favourite IDE or editor, open the terminal and run `php artisan serve` command.
+
+### Database
+You can import the database with this file "fullstack.sql"
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
